@@ -1,0 +1,31 @@
+body{
+    background-color: aquamarine;
+    min-height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    justify-content: center;
+
+    margin-top: 160px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    padding: 10px 10px 15px 10px;
+}
+#nescriptive{
+    text-align: center;
+    text-transform: capitalize;
+}
+#nescriptive p{
+    font-size: 36px;
+    font-weight: 300;
+}
+#nescriptive h1{
+    font-size: 50px;
+    font-weight: 900;
+    text-transform: uppercase;
+
+}
